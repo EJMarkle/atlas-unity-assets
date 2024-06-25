@@ -1,6 +1,5 @@
-using UnityEngine;
 using UnityEditor;
-using System.IO;
+using UnityEngine;
 
 public class DatabasesManager : EditorWindow
 {
@@ -26,7 +25,6 @@ public class DatabasesManager : EditorWindow
         GUILayout.Label($"Total Weapons: {AssetDatabase.FindAssets("t:Weapon").Length}");
         GUILayout.Label($"Total Potions: {AssetDatabase.FindAssets("t:Potion").Length}");
         GUILayout.Label($"Total Armors: {AssetDatabase.FindAssets("t:Armor").Length}");
-        
 
         // Separator
         EditorGUILayout.Space();
@@ -34,8 +32,8 @@ public class DatabasesManager : EditorWindow
         EditorGUILayout.Space();
 
         // Buttons to access other windows
-        // if (GUILayout.Button("Weapon Database")) WeaponDatabase.ShowWindow();
-        // if (GUILayout.Button("Potion Database")) PotionDatabase.ShowWindow();
-        // if (GUILayout.Button("Armor Database")) ArmorDatabase.ShowWindow();
+        if (GUILayout.Button("Weapon Database")) WeaponDatabase.ShowWindow();
+        if (GUILayout.Button("Potion Database")) PotionDatabase.ShowWindow();
+        if (GUILayout.Button("Armor Database")) ArmorDatabase.ShowWindow();
     }
 }
