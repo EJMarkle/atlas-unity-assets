@@ -4,7 +4,7 @@
 [Serializable]
 public enum EquipSlot
 {
-    Null = 0,
+    None = 0,
     Head = 1 << 0,
     Chest = 1 << 1,
     Legs = 1 << 2,

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799c80d77bd488c42a1894e66692cecb, type: 3}
+  m_Name: Winged Helmet
+  m_EditorClassIdentifier: 
+  itemName: Winged Helmet
+  icon: {fileID: 0}
+  description: Flight not included
+  baseValue: 40
+  rarity: 2
+  requiredLevel: 9
+  equipSlot: 1
+  armorType: 2
+  defensePower: 25
+  resistance: 0
+  weight: 12
+  movementSpeedModifier: 0

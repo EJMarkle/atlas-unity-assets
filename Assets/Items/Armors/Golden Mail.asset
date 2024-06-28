@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799c80d77bd488c42a1894e66692cecb, type: 3}
+  m_Name: Golden Mail
+  m_EditorClassIdentifier: 
+  itemName: Golden Mail
+  icon: {fileID: 0}
+  description: Shiny and protective.
+  baseValue: 45
+  rarity: 2
+  requiredLevel: 10
+  equipSlot: 2
+  armorType: 8
+  defensePower: 30
+  resistance: 15
+  weight: 20
+  movementSpeedModifier: -0.2

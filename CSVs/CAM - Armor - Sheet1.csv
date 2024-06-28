@@ -1,0 +1,101 @@
+Item Name,Icon Path,Armor Type,Defense Power,Resistance,Weight,Movement Speed Modifier,Base Value,Rarity,Required Level,Equip Slot,Description
+Bathrobe of Bravery,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloak/cloak_17.png,Cloth,5,0,2,0.2,15,Common,3,Chest,Feel brave
+Cap of Catastrophe,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Hat/pirate_hat.png,Cloth,0,0,1,-0.1,10,Uncommon,3,Head,Bad luck seems to follow this cap.
+Cardboard Helmet,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Engineering/Engineering_40_protector_in_the_box.png,Leather,1,0,0.1,0.1,1,Common,1,Head,Surprisingly not as protective as it looks.
+Clogs of Clumsiness,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Leather/7_Leather_boots.png,Cloth,-5,0,5,-0.5,5,Common,1,Legs,Not great for running. Or walking.
+Dragonscale Shield,Assets/CustomAssets/4000_Fantasy_Icons/Weapons/WeaponIcons_2/Shield_v2_10.png,Dragonscale,50,35,15,-0.1,75,Rare,20,OffHand,Made from real dragon scales!
+Elfweave Robe,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloak/cloak_20.png,Elfweave,40,25,8,0,60,Rare,15,Chest,Crafted by elven artisans.
+Glittering Gold Gown,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloak/cloak_28.png,Gold,15,10,10,-0.1,40,Rare,8,Chest,You'll shine
+Golden Mail,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Mail/6_Mail_Chest.png,Mail,30,15,20,-0.2,45,Uncommon,10,Chest,Shiny and protective.
+Grandma's Knitted Coif,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloth/3_Cloth_Head.png,Cloth,10,5,1,0,20,Common,6,Head,It's warm and full of love. Defense value questionable.
+Iron Helm,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor/Helm_22.png,Iron,20,5,10,-0.1,30,Common,5,Head,A sturdy iron helmet.
+Leather Tunic,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Leather/1_Leather_Chest.png,Leather,10,0,5,0,15,Common,1,Chest,Simple leather armor.
+Muffler of Mumbling,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Hat/diver_mask.png,Iron,0,5,1,0,5,Rare,4,Head,Makes everything sound profound yet unintelligible.
+Pants of Panic,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Leather/9_Leather_Pants.png,Leather,-10,0,5,-0.1,10,Uncommon,2,Legs,Something feels off about these pants.
+Shirt of Shyness,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor/Chest_01.png,Iron,5,0,2,0,15,Common,2,Chest,Makes you feel incredibly self-conscious.
+Slippers of Slipping,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Tailoring/Tailoring_24_socks.png,Cloth,0,0,0.5,-0.3,5,Uncommon,4,Legs,Warning: Not for use on slippery surfaces.
+Boots of Unstoppable Dancing,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Leather/8_Leather_boots.png,Cloth,0,-5,1,0.4,20,Uncommon,5,Legs,You can't stop dancing. Literally.
+Bucket of Dubious Defense,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Engineering/Engineering_23_water_pail.png,Iron,2,0,3,-0.1,5,Common,1,Head,It's a bucket. On your head.
+Cheeseplate Armor,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor/Chest_11.png,Bronze,10,5,10,-0.2,25,Rare,7,Chest,Protective and delicious. Beware of mice.
+Cloak of Visibility,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloak/cloak_21.png,Cloth,-5,0,1,0,5,Common,2,Chest,"You're very, VERY visible."
+Corset of Holding,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Mail/8_Mail_Chest.png,Mail,15,0,3,0.1,35,Rare,9,Chest,Contains extra-dimensional space for snacks.
+Glasses of Nearsightedness,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Jewelcrafting/Jewelcrafting_24_glass.png,Crystal,0,10,0.2,0,20,Uncommon,4,Head,"Clear vision, but only for things extremely close."
+Hat of Unfortunate Puns,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Hat/jester_hat.png,Cloth,0,0,1,0,10,Common,1,Head,Causes the wearer to speak in puns. It's pun-ishing.
+Mitten of the Overconfident,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Leatherworking/Leatherworking_29_glove.png,Leather,5,-10,1,0.1,15,Common,3,OffHand,Makes you feel invincible. You're not.
+Pillow Shield,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Tailoring/Tailoring_19_pillow.png,Cloth,1,20,1,-0.1,15,Uncommon,3,OffHand,Comfortable but not very effective.
+Potion-laden Belt,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Alchemy/Alchemy_40_potion_set.png,Leather,0,10,2,0,25,Rare,6,Accessory,Can hold various potions. Slightly rattles when you walk.
+Pyjamas of Eternal Slumber,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloak/cloak_34.png,Cloth,0,30,2,0,40,Epic,10,Chest,So comfy you might never wake up.
+Rune-carved Bone Helm,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor/Helm_32.png,Bone,15,20,3,-0.1,50,Rare,12,Head,Provides mystical defense and really bad hair.
+Sock of Lost Sole,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Tailoring/Tailoring_24_socks.png,Cloth,-5,0,0.5,0.2,5,Common,1,Legs,"One sock, no match, forever alone."
+Spork of Defiance,Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Blacksmithing/Blacksmithing_38_trident.png,Runesteel,10,10,1,0,30,Rare,8,MainHand,"It's not a spoon, it's not a fork. It's both."
+Toga of Time Wasting,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloak/cloak_33.png,Cloth,0,5,2,0,20,Common,4,Chest,"You feel the need to debate philosophy, poorly."
+Tunic of Incredible Itch,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Leather/1_Leather_Chest.png,Leather,-5,0,4,-0.1,5,Common,1,Chest,Highly distracting. Very itchy.
+Vest of Vulnerability,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloth/1_Cloth_Chest.png,Cloth,-10,0,5,-0.1,10,Common,3,Chest,Makes you more vulnerable than you'd like
+Mask of Mischief,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Mask/mask_01.png,Leather,0,0,3,0.2,20,Uncommon,6,Head,You feel like causing some trouble
+Cape of the Coward,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cape/cape_02.png,Cloth,0,0,1,0,5,Common,2,Chest,Makes you feel a bit timid
+Oversized Gauntlets,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Gauntlet/gauntlet_03.png,Iron,20,0,5,-0.2,30,Common,7,OffHand,Bulky and heavy
+Greaves of Grief,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Greaves/greaves_04.png,Iron,25,0,10,-0.2,40,Uncommon,8,Legs,Made to withstand punishment
+Goggles of Glaring,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Goggles/goggles_05.png,Leather,0,0,2,0,15,Rare,5,Head,Enhances your glare
+Belt of Bloating,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Belt/belt_06.png,Leather,0,0,1,0,5,Common,2,Accessory,"Makes you feel full, maybe too full"
+Shoes of Slowness,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Shoes/shoes_07.png,Cloth,0,0,2,-0.2,10,Common,3,Legs,Make you feel a little sluggish
+Breastplate of Boredom,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Breastplate/breastplate_08.png,Iron,30,0,15,-0.3,45,Uncommon,11,Chest,"Well, it's a breastplate"
+Pauldrons of Procrastination,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Pauldrons/pauldrons_09.png,Iron,20,0,8,-0.1,25,Common,9,Chest,You'll get to it...eventually
+Linen Loincloth,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Loincloth/loincloth_10.png,Cloth,5,0,1,0,10,Common,1,Legs,Minimal protection
+Silly Sombrero,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Sombrero/sombrero_11.png,Cloth,0,0,2,0.1,10,Common,4,Head,A festive but impractical choice
+Mithril Circlet,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Circlet/circlet_12.png,Mithril,0,0,3,0.1,2000,Uncommon,5,Head,"Shiny, decorative, and quite expensive."
+Hauberk of Hesitation,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Hauberk/hauberk_13.png,Mail,35,0,20,-0.4,50,Uncommon,13,Chest,You feel reluctant in making decisions
+Chitin Chestplate,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Chitin/chitin_14.png,Bone,25,0,15,-0.2,35,Rare,10,Chest,Made from giant insect shells
+Tabard of Timidity,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Tabard/tabard_15.png,Cloth,0,0,2,0.1,10,Common,2,Chest,For the less bold adventurers
+Armband of Apathy,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Armband/armband_16.png,Leather,0,0,1,0.1,5,Common,2,Accessory,You suddenly don't care as much
+Bracers of Bruising,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Bracers/bracers_17.png,Leather,10,0,5,-0.1,20,Common,5,OffHand,You feel more likely to get bruised
+Gloves of Giggling,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Gloves/gloves_18.png,Cloth,0,0,1,0.1,5,Common,1,OffHand,Everything is hilarious!
+Turban of Tactlessness,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Turban/turban_19.png,Cloth,0,0,1,0,5,Common,2,Head,Lacking in diplomacy
+Buckler of Bravado,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Buckler/buckler_20.png,Wood,5,0,3,-0.1,10,Common,2,OffHand,Looks tougher than it is
+Hat of Hindsight,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Hat/hat_21.png,Cloth,0,0,1,0.1,10,Common,3,Head,You always know what you should have done
+Vambraces of Vanity,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Vambraces/vambraces_22.png,Leather,10,0,5,0,20,Common,6,OffHand,You can't help but admire yourself
+Padded Pantaloons,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Pantaloons/pantaloons_23.png,Cloth,5,0,2,0,15,Common,3,Legs,Comfort over fashion
+Woolen Warhat,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Warhat/warhat_24.png,Cloth,0,0,1,0,5,Common,2,Head,A warm but not very protective hat
+Robe of Resentment,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Robe/robe_25.png,Cloth,0,0,3,0.1,15,Common,3,Chest,You feel wronged in some vague way
+Leather Lederhosen,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Lederhosen/lederhosen_26.png,Leather,10,0,3,0,20,Common,5,Legs,Traditional and stylish
+Winged Helmet,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/WingedHelmet/winghelm_27.png,Iron,25,0,12,0,40,Uncommon,9,Head,Flight not included
+Furry Frock,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Frock/frock_28.png,Hide,5,0,2,0.1,10,Common,2,Chest,Soft but not protective
+Metal Mittens,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Mittens/mittens_29.png,Iron,20,0,8,-0.2,25,Common,7,OffHand,Not practical for fine tasks
+Studded Spats,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Spats/spats_30.png,Leather,10,0,4,0,20,Common,5,Legs,Offers some protection and style
+Feathered Fedora,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Fedora/fedora_31.png,Cloth,0,0,1,0.1,5,Common,2,Head,Fancy but not functional
+Woven Wimple,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Wimple/wimple_32.png,Cloth,0,0,1,0.1,5,Common,2,Head,Offers limited protection and style
+Snuggie of Immortality,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Snuggie/snuggie_01.png,Cloth,50,25,2,0.2,2000,Legendary,50,Chest,"So cozy, you can't possibly die."
+Crocs of Invisibility,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Crocs/crocs_02.png,Leather,5,0,1,0.5,2500,Legendary,60,Legs,"So ugly, nobody wants to acknowledge you exist."
+Mullet Helm,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/MulletHelm/mullethelm_03.png,Hide,30,0,2,0,3000,Legendary,55,Head,The power of bad hair decisions
+Diaper of Dignity,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Diaper/diaper_04.png,Cloth,10,10,1,0,2800,Legendary,52,Legs,The pinnacle of self-respect
+Tinfoil Hat,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/TinfoilHat/tinfoilhat_05.png,Iron,1,50,0.1,0,3500,Legendary,70,Head,Protects against all known forms of mind control
+Tank Top of Tanking,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/TankTop/tanktop_06.png,Cloth,60,0,2,-0.1,2200,Legendary,45,Chest,"Not a tank, but you feel like one."
+Chicken Suit,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/ChickenSuit/chickensuit_07.png,Hide,20,20,3,0.3,2750,Legendary,58,Chest,"Cluck cluck, motherclucker!"
+Loincloth of Legends,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/LoinclothOfLegends/loinclothlegend_08.png,Dragonscale,40,30,1,0.4,4000,Legendary,65,Legs,"Slay dragons, but make it fashion."
+Bubble Wrap Armor,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/BubbleWrap/bubblewrap_09.png,Kevlar,10,0,0.5,0.5,1500,Legendary,35,Chest,Pop your way to victory
+Unicorn Horn Crown,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/UnicornHorn/unicornhorn_10.png,Arcane,15,50,1,0,3300,Legendary,60,Head,Rainbows not included
+Pie Plate Pauldrons,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/PiePlates/pieplate_11.png,Iron,25,0,0.2,0.1,1600,Legendary,40,Chest,For the pie-loving paladin
+Spork Gauntlets,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Spork/spork_12.png,Iron,35,10,2,-0.1,1900,Legendary,45,OffHand,The mightiest of utensils
+Socks of Slipperiness,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Socks/socks_13.png,Cloth,0,0,0.1,0.7,2000,Legendary,55,Legs,Woohoo! Wheee! Woops!
+Helm of Hubris,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/HelmOfHubris/hubrishelm_14.png,Gold,50,25,3,-0.2,3700,Legendary,70,Head,You're too good for this game
+Monocle of Mediocrity,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Monocle/monocle_15.png,Cybernetic,5,20,0,0,1800,Legendary,35,Head,See your average future
+Clown Shoes of Agility,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/ClownShoes/clownshoes_16.png,Leather,10,0,2,0.4,2300,Legendary,60,Legs,You'll have the last laugh
+Apron of Absurdity,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Apron/apron_17.png,Cloth,20,0,1,0.2,2100,Legendary,50,Chest,Because why not?
+Rubber Ducky Ring,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/RubberDucky/rubberducky_18.png,Gold,0,40,0,0,2600,Legendary,65,Accessory,Quacktacularly legendary
+Frito's Cozy Ring,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Ring/ring_01.png,Gold,5,50,0.1,0.1,5000,Legendary,75,Accessory,When worn the wearer becomes invisible
+Excali-belt,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/ExcaliBelt/excalibelt_01.png,Leather,50,25,2,0.1,5000,Legendary,80,Legs,The belt that once belonged to the legendary King Artorias
+Smiggle's Sneaky Cloak,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Cloak/cloak_03.png,Cloth,20,30,1,0.2,3000,Legendary,65,Chest,"This cloak makes you nearly invisible if you whisper ""my precious"""
+Lady Arthura's Dwarven Chestplate,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/ChestPlate/chestplate_04.png,Mithril,80,10,5,-0.3,7000,Legendary,85,Chest,The armor of the lady knight who pulled the sword from a stone
+Asgore's Mighty Gauntlets,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Gauntlets/gauntlets_05.png,Iron,30,0,3,0,3500,Legendary,60,OffHand,"Stolen from the gods, these gauntlets pack a punch."
+Legolamb's Eagle-Eye Circlet,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Circlet/circlet_06.png,Mithril,15,20,1,0,2500,Legendary,55,Head,Wearing it grants archery skills beyond mortal comprehension
+Belle's Bookish Amulet,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Amulet/amulet_07.png,Crystal,5,60,0,0,4500,Legendary,70,Accessory,Increases intellect; smells faintly of roses
+Sherluck's Observation Glasses,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Glasses/glasses_08.png,Cybernetic,0,0,0.1,0,2000,Legendary,40,Head,Wearing them helps you deduce clues others may miss
+Snipe's Celestial Scarf,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Scarf/scarf_09.png,Arcane,0,40,1,0,3200,Legendary,50,Head,Worn by the most famous sorcerer in Snipe's School of Craft and Magicry
+Furryosa's Fury Boots,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Boots/boots_10.png,Leather,40,0,2,-0.1,3700,Legendary,60,Legs,She walked through the desert of chaos and made it a garden again
+Red Riding Hoodlum's Hood,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Hood/hood_11.png,Cloth,20,10,1,0,2900,Legendary,55,Head,"Keeps you safe from wolves, both literal and metaphorical."
+Vaderio's Breath Mask,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Mask/mask_12.png,Iron,25,35,2,-0.2,4200,Legendary,70,Head,You find the lack of humidity disturbing
+Princess Leotard's Bun Hairpins,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Hairpins/hairpins_13.png,Gold,5,50,0.5,0,2800,Legendary,50,Head,These hairpins are a diplomatic mission
+Jack's Enchanted Bean Belt,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Belt/belt_14.png,Leather,10,30,1,0,3100,Legendary,45,Legs,You feel like you can climb any beanstalk
+Cindirella's Glass Slipper,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Slipper/slipper_15.png,Crystal,10,10,0.2,0.5,2500,Legendary,35,Legs,Watch your step; it's fragile
+Jasmin's Freedom Veil,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Veil/veil_16.png,Cloth,0,70,0.5,0,3300,Legendary,60,Head,Frees you from all control spells
+Robbin' Hood's Moneybag,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/Moneybag/moneybag_17.png,Leather,0,0,1,0,2000,Legendary,25,Accessory,Increases gold looted by 20%
+Zena's Warrior Breastplate,Assets/CustomAssets/4000_Fantasy_Icons/Armor/500_armor_vol_2/WarriorBreastplate/breastplate_18.png,Bronze,65,0,4,-0.2,3600,Legendary,65,Chest,A battle cry is heard in the distance every time it's worn

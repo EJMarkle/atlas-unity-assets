@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799c80d77bd488c42a1894e66692cecb, type: 3}
+  m_Name: Slippers of Slipping
+  m_EditorClassIdentifier: 
+  itemName: Slippers of Slipping
+  icon: {fileID: 0}
+  description: 'Warning: Not for use on slippery surfaces.'
+  baseValue: 5
+  rarity: 2
+  requiredLevel: 4
+  equipSlot: 4
+  armorType: 4
+  defensePower: 0
+  resistance: 0
+  weight: 0.5
+  movementSpeedModifier: -0.3

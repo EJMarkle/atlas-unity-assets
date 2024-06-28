@@ -11,6 +11,7 @@ public class Potion : BaseItem
     public float duration; // Duration of the effect
     public float cooldown; // Cooldown time for using again
     public bool isStackable; // Whether the effect is stackable
+    public string iconPath;
 }
 
 

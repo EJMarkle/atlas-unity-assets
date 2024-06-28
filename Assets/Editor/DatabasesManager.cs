@@ -1,5 +1,5 @@
-using UnityEditor;
 using UnityEngine;
+using UnityEditor;
 
 public class DatabasesManager : EditorWindow
 {
@@ -35,5 +35,6 @@ public class DatabasesManager : EditorWindow
         if (GUILayout.Button("Weapon Database")) WeaponDatabase.ShowWindow();
         if (GUILayout.Button("Potion Database")) PotionDatabase.ShowWindow();
         if (GUILayout.Button("Armor Database")) ArmorDatabase.ShowWindow();
+        if (GUILayout.Button("Statistics Page")) StatisticsPage.ShowWindow();
     }
 }

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd7be83707330f4184b7cc046475201, type: 3}
+  m_Name: Chatty Chai
+  m_EditorClassIdentifier: 
+  itemName: Chatty Chai
+  icon: {fileID: 0}
+  description: The drink that spits back
+  baseValue: 90
+  rarity: 4
+  requiredLevel: 9
+  equipSlot: 0
+  potionEffect: 16
+  effectPower: 2
+  duration: 300
+  cooldown: 50
+  isStackable: 0
+  iconPath: Assets/CustomAssets/4000_Fantasy_Icons/Resources/Profession_icons/Alchemy/Alchemy_08_reactive_mixture.png

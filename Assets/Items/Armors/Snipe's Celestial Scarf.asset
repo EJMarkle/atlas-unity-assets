@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799c80d77bd488c42a1894e66692cecb, type: 3}
+  m_Name: Snipe's Celestial Scarf
+  m_EditorClassIdentifier: 
+  itemName: Snipe's Celestial Scarf
+  icon: {fileID: 0}
+  description: Worn by the most famous sorcerer in Snipe's School of Craft and Magicry
+  baseValue: 3200
+  rarity: 16
+  requiredLevel: 50
+  equipSlot: 1
+  armorType: 256
+  defensePower: 0
+  resistance: 40
+  weight: 1
+  movementSpeedModifier: 0

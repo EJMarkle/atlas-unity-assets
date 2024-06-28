@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799c80d77bd488c42a1894e66692cecb, type: 3}
+  m_Name: Shirt of Shyness
+  m_EditorClassIdentifier: 
+  itemName: Shirt of Shyness
+  icon: {fileID: 0}
+  description: Makes you feel incredibly self-conscious.
+  baseValue: 15
+  rarity: 1
+  requiredLevel: 2
+  equipSlot: 2
+  armorType: 2
+  defensePower: 5
+  resistance: 0
+  weight: 2
+  movementSpeedModifier: 0

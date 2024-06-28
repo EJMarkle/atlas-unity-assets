@@ -11,4 +11,5 @@ public class Armor : BaseItem
     public float resistance; // Magical resistance
     public float weight; // Weight of the armor
     public float movementSpeedModifier; // Affects movement speed
+    public string iconPath;
 }

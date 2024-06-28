@@ -12,6 +12,7 @@ public class Weapon : BaseItem
     public float durability; // Durability of the weapon
     public float range; // Range of the weapon
     public float criticalHitChance; // Chance of a critical hit
+    public string iconPath;
 }
 
 

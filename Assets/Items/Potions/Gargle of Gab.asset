@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd7be83707330f4184b7cc046475201, type: 3}
+  m_Name: Gargle of Gab
+  m_EditorClassIdentifier: 
+  itemName: Gargle of Gab
+  icon: {fileID: 0}
+  description: 'Talk anyone''s ear off. Side effect: Endless small talk.'
+  baseValue: 50
+  rarity: 4
+  requiredLevel: 5
+  equipSlot: 0
+  potionEffect: 16384
+  effectPower: 3
+  duration: 600
+  cooldown: 360
+  isStackable: 1
+  iconPath: Assets/CustomAssets/4000_Fantasy_Icons/Skills/500_skillicons/Skill_standart/Mageskill_38.png

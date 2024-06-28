@@ -1,0 +1,7 @@
+Name,Description,BaseValue,RequiredLevel,Rarity,WeaponType,AttackPower,AttackSpeed,Durability,Range,CriticalHitChance,EquipSlot,IconPath
+Axe,Axe,5,2,Uncommon,Axe,2,2,3,2,0,MainHand,
+Cooking Knife,Knofe,5,56,Legendary,Mace,10,10,10,1,1,MainHand,
+knife ,knife,10,1,Epic,Dagger,5,5,10,1,1,MainHand,
+Mace,Spiked,5,56,Legendary,Mace,10,10,10,1,1,MainHand,
+Spiked Knucks,Spiked,5,56,Legendary,Improvised,10,10,10,1,1,MainHand,
+Sword,Sword,10,10,Common,Sword,10,10,10,1,1,MainHand,
